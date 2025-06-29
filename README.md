@@ -11,7 +11,6 @@ A simple project to edit and manage resumes with a **FastAPI backend** and a **R
 This repository contains both **backend (FastAPI)** and **frontend (React)** parts of the project.
 
 ---
-
 ## 📂 Backend Setup
 
 ```bash
@@ -34,19 +33,17 @@ pip install -r requirements.txt
 
 # Run the FastAPI server
 uvicorn main:app --reload
+```
 
-## 💻 Frontend Setup
+## 📂 Frontend Setup
 
 ```bash
-# Open your terminal
-
 # Navigate to the frontend directory
 cd frontend
 
-# Install project dependencies
+# Install npm dependencies
 npm install
 
-# Run the React development server
+# Start the React development server
 npm run dev
-
-
+```

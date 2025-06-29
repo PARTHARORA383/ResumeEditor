@@ -1,0 +1,36 @@
+{
+  "name": "Parth Arora",
+  "email": "parth@example.com",
+  "education": [
+    {
+      "degree": "B.Tech",
+      "institute": "Indian Institute of Engineering and Technology",
+      "startdate": "2019",
+      "enddate": "2023"
+    },
+    {
+      "degree": "Higher Secondary Education",
+      "institute": "Delhi Public School",
+      "startdate": "2017",
+      "enddate": "2019"
+    }
+  ],
+  "experience": [
+    {
+      "role": "Developer",
+      "company": "Geet Hosiery",
+      "duration": "2 years",
+      "description": "Worked extensively on designing and deploying AI agents to automate operational workflows such as inventory prediction and sales forecasting. Built REST APIs using Node.js and Express to integrate AI models with existing ERP systems. Leveraged Python for data preprocessing and model development using libraries like scikit-learn and TensorFlow. Also collaborated with frontend teams to integrate AI outputs into React dashboards for business insights."
+    }
+  ],
+  "projects": [
+    {
+      "title": "AI-Powered Inventory Management System",
+      "description": "Developed a full-stack inventory management application using React.js for the frontend and Node.js with Express for backend APIs. Integrated TensorFlow-based predictive models to forecast stock requirements, reducing overstocking by 30%. Implemented JWT authentication for secure access and used MongoDB as the primary database for storing inventory and transaction records. Deployed the application on AWS EC2 with Nginx as a reverse proxy for scalable and reliable access by the team."
+    },
+    {
+      "title": "Smart Sales Forecasting Dashboard",
+      "description": "Built an interactive sales forecasting dashboard using React.js and Chart.js for data visualization, integrated with a backend powered by Flask and scikit-learn regression models to predict future sales trends. Enabled business managers to filter predictions by product category and region, resulting in a 15% increase in forecasting accuracy for monthly planning. Deployed the solution on Heroku with environment variables for secure model endpoints."
+    }
+  ]
+}
